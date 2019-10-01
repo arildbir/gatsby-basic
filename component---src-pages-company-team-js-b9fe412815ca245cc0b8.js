@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{257:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),r=t(252);n.default=function(){return l.a.createElement(r.a,null,l.a.createElement("h1",null,"Om vårt team"),l.a.createElement("p",null,"litt tekst her for å få inn noe"))}}}]);
+//# sourceMappingURL=component---src-pages-company-team-js-b9fe412815ca245cc0b8.js.map

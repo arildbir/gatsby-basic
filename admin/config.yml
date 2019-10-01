@@ -1,0 +1,16 @@
+backend:
+  name: github
+  branch: master
+  repo: arildbir/gatsby-basic
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: team
+    label: Team
+    folder: src/team
+    create: true
+    fields:
+      - { name: title, label: Team Member, widget: string }
+      - { name: bio, label: Bio, widget: markdown }
